@@ -58,6 +58,12 @@ function App() {
           <img src="/logo.png" alt="Shivayaa Couture logo" />
         </div>
 
+        <p className="hand-script">
+          Every thread tells a story.
+          <br />
+          Shivayaa Couture — your story at your doorstep.
+        </p>
+
         <div className="wordmark-backdrop" aria-hidden="true">
           <span>SHIVAYAA</span>
           <small>COUTURE</small>
@@ -77,8 +83,8 @@ function App() {
         <h1>COMING SOON</h1>
 
         <p className="body-copy">
-          Stay tuned for an elevated couture reveal in signature green tones.
-          Join our private list for first access to the Shivayaa Couture launch.
+         Stay tuned—join our private list for first access to the Shivayaa Couture launch.
+
         </p>
 
         <form className="subscribe" onSubmit={handleSubmit} noValidate>
