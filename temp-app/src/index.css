@@ -356,9 +356,9 @@ h1 {
   }
 
   .wordmark-backdrop {
-    inset: auto auto 6% 50%;
+    inset: auto auto 18% 50%;
     transform: translate(-50%, 0);
-    opacity: 0.12;
+    opacity: 0.16;
     text-align: center;
   }
 
