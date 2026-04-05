@@ -54,6 +54,10 @@ function App() {
       </a>
 
       <main className="hero">
+        <div className="top-logo">
+          <img src="/logo.png" alt="Shivayaa Couture logo" />
+        </div>
+
         <div className="wordmark-backdrop" aria-hidden="true">
           <span>SHIVAYAA</span>
           <small>COUTURE</small>
